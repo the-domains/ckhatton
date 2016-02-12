@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chris Hatton]]></title>
         <description><![CDATA[Chris Hatton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ckhatton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 23:53:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 23:57:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ckhatton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>Hello, I'm Chris Hatton.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2857216d3ecc1bc3d9cf372e50be4765e2c90a68.png"></article>]]></description>
+            <link>https://thegrid.ai/ckhatton/about-me/index.html</link>
+            <guid isPermaLink="false">2d5c9ffb-fe0e-4d9d-984e-5dfaac7bdea6</guid>
+            <pubDate>Fri, 12 Feb 2016 23:56:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Newly created Teeki store website]]></title>
-            <description><![CDATA[<article><h1>Newly created Teeki store website</h1><p>Myself and business partner Jennie Lewis helped created a new website for Teeki. They sell fashionable leggings across the globe and needed a website that people could purchase from. Their previous website did not have the functionality of an online store.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/196b08ab3c65409657dabee24377f0bd2a1c9e2c.png"></article>]]></description>
-            <link>undefinednewly-created-teeki-store-website/index.html</link>
+            <description><![CDATA[<article><h1>Newly created Teeki store website</h1><p>Myself and designer Jennie Lewis helped created a new online store for Teeki. They sell a fashionable eco-conscious activewear line, which is dispatched to destinations across the globe. There was a need for a website that people could purchase their items from and their previous website did not have the functionality of an online store. They also required a website that could handle blog posts and display Instagram photos that related to their products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/116e0f75968da049d14decacc468a8a0bd5f0b9b.png"></article>]]></description>
+            <link>https://thegrid.ai/ckhatton/newly-created-teeki-store-website/index.html</link>
             <guid isPermaLink="false">536836c4-6ae8-4680-b22a-456f6ee25e00</guid>
             <pubDate>Fri, 12 Feb 2016 23:53:24 GMT</pubDate>
         </item>
